@@ -1,0 +1,6 @@
+FPg=1
+TNg=1
+FNg=37
+TPc=1
+FPc=1
+FNc=14
